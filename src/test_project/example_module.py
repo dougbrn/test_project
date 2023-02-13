@@ -8,7 +8,7 @@ def greetings() -> str:
     str
         A typical greeting from a software engineer.
     """
-    return "Hello from LINCC-Frameworks!"
+    return "Hello from LINCC-Frameworks! Here's a second sentence!"
 
 def meaning() -> int:
     """The meaning of life, the universe, and everything.
